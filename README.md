@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://github.com/efeturkemir/efeturkemir/blob/main/giphy.gif) , I'm Emir Efetürk</h1>
+<h1 align="center">Hi, I'm Emir Efetürk</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
